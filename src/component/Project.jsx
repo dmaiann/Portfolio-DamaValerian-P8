@@ -7,19 +7,19 @@ const projects = [
     title: "Radiant Portfolio",
     desc: "A motion-driven personal portfolio experience.",
     tag: "Frontend / Motion",
-    image: "/public/Project/Portfolio.png",
+    image: "Project/Portfolio.png",
   },
   {
     title: "SportID",
     desc: "Scalable UI system for consistent products.",
     tag: "UI System",
-    image: "/public/Project/SportID.png",
+    image: "Project/SportID.png",
   },
   {
     title: "Carbon Lens",
     desc: "Product-focused SaaS interface design.",
     tag: "Product Design",
-    image: "/public/Project/CarbonLens.png",
+    image: "Project/CarbonLens.png",
   },
 ];
 
